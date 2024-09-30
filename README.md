@@ -1,6 +1,6 @@
 # KMP Sample Template
 
-This is a simple Kotlin Multiplatform and Compose Multiplatform template designed to build applications for both Android and iOS.
+This is a minimal Kotlin Multiplatform and Compose Multiplatform template designed to build applications for both Android and iOS.
 
 ## Kotlin Multiplatform (KMP)
 
