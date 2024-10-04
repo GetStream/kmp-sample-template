@@ -12,7 +12,7 @@ This is a minimal Kotlin Multiplatform and Compose Multiplatform template design
 
 ## Technical Content
 
-Coming soon!
+If you want to learn more about Kotlin Muiltiplatform and Compose Multiplatform, check out [Build Your First Android and iOS Mobile App With Kotlin Multiplatform](https://getstream.io/blog/build-app-kotlin-multiplatform/).
 
 ## Screenshot
 
